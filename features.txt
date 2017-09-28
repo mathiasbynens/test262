@@ -54,6 +54,9 @@ regexp-unicode-property-escapes
 Atomics
 SharedArrayBuffer
 
+# Numeric Separator Literal
+numeric-separator-literal
+
 # Standard language features
 #
 # Language features that have been included in a published version of the
